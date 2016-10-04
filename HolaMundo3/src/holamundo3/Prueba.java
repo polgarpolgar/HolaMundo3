@@ -11,6 +11,12 @@ package holamundo3;
  */
 public class Prueba {
     int variable;
-    public Prueba(){}
+    String mensaje;
+    public Prueba(){
+        
+    }
+    public void metodo(){
+    
+    }
     
 }
