@@ -1,18 +1,18 @@
 # HolaMundo3
 1- Queremos definir las clases necesarias para poder gestionar los empleados de
-una empresa. Existen cuatro categorías de empleados: Jefes de Sección,
-Trabajadores por Horas, Trabajadores por Piezas y Vendedores a Comisión.
+una empresa. Existen cuatro categorías de empleados: **Jefes de Sección**,
+**Trabajadores por Horas**, **Trabajadores por Piezas** y **Vendedores a Comisión**.
 
 2- Los miembros que deben incorporar todas las clases son (manteniendo el
 nombre que se indica):
-i. nombre
-ii. apellidos
-iii. salario (devuelve el salario semanal calculado según se indica
+i. **nombre**
+ii. **apellidos**
+iii. **salario** (devuelve el salario semanal calculado según se indica
 más adelante)
-iv. toString (devuelve un texto compuesto por: texto indicador del
+iv. **toString** (devuelve un texto compuesto por: texto indicador del
 tipo de empleado, apellidos y nombre)
 
-3- Los salarios se calcularán de la siguiente forma:
+3- Los *salarios* se calcularán de la siguiente forma:
 a. Jefes de Sección: cantidad fija pero puede ser distinta para cada jefe.
 b. Trabajadores por horas: nº de horas trabajadas multiplicadas por el
 salario de una hora. El salario por hora puede variar de un empleado
