@@ -15,8 +15,8 @@ public class Prueba {
     public Prueba(){
         
     }
-    public void metodo(){
-        return;
+    public int metodo(){
+        return 0;
     }
     
 }
