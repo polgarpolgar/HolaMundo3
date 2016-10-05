@@ -11,5 +11,6 @@ package holamundo3;
  */
 public class ClaseSegunda {
     int variable;
+    String ototo;
     
 }
