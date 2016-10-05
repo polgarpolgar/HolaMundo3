@@ -16,7 +16,7 @@ public class Prueba {
         
     }
     public void metodo(){
-    
+        return;
     }
     
 }
